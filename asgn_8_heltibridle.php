@@ -11,7 +11,18 @@
   </header>
 
   <main>
+    <form action="" method="post">
+      <label for="code">Secret Code:</label>
+      <input type="text" name="code" id="code">
+      <
 
+      <label for="firstname">First Name:</label>
+      <input type="text" name="firstname" id="firstname">
+
+      <button type="button">Join Now</button>
+    </form>
+
+    <span id="displaymsg"></span>
 
   </main>
   
