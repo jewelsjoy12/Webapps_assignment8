@@ -18,6 +18,7 @@
       display: block;
     }
   </style>
+
   <script>
     var $ = function(id) {
       return document.getElementById(id);
